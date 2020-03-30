@@ -1,0 +1,6 @@
+framework module Pods_Bindshare {
+  umbrella header "Pods-Bindshare-umbrella.h"
+
+  export *
+  module * { export * }
+}
